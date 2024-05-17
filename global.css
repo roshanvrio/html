@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sf-pro: "SF Pro";
+  --font-jost: Jost;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #152638;
+
+  /* Paddings */
+  --padding-xl: 20px;
+}
